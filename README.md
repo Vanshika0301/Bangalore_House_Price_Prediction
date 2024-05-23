@@ -6,7 +6,9 @@
 This project aims to predict house prices in Bangalore, India, using machine learning techniques. The model is built using a dataset obtained from Kaggle, which contains information about various factors influencing house prices such as location, size, number of bathrooms, total square feet area, etc.
 
 ## Data Source
-The dataset used for this project is sourced from Kaggle and can be found here. It includes information about Bangalore house prices along with details like location, size, total square feet, number of bathrooms, and price.
+The dataset used for this project is sourced from Kaggle:
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data 
+It includes information about Bangalore house prices along with details like location, size, total square feet, number of bathrooms, and price.
 
 ## Methodology
 The project follows the following steps:

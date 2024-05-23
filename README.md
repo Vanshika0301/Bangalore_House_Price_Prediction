@@ -30,7 +30,7 @@ The project follows the following steps:
 The project explores various regression algorithms including Linear Regression, Lasso Regression, and Decision Tree Regression. After evaluating their performance using cross-validation techniques, Linear Regression was chosen as the best performing model.
 
 ## Usage
-- Clone Repository: Clone this repository to your local machine using git clone https://github.com/your-username/bangalore-house-price-prediction.git
+- Clone Repository: Clone this repository to your local machine using git clone https://github.com/Vanshika0301/bangalore-house-price-prediction.git
 - Install Dependencies: Install the required dependencies using pip install -r requirements.txt
 - Run the Model: Execute the model script to train and test the model.
 - Predict House Prices: Use the trained model to predict house prices for new data.
